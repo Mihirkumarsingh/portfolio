@@ -474,11 +474,13 @@ header .intro-text .name {
 table {
   border-collapse: collapse;
   width: 100%;
+  border : 1px solid #3a4660;
 }
 
 th, td {
+
   text-align: left;
-  padding: 8px;
+  padding: 3px;
 }
 
 tr:nth-child(even) {background-color: #f9e4b7;}
@@ -490,7 +492,7 @@ tr:nth-child(even) {background-color: #f9e4b7;}
   align-items: center;
   justify-content: center;
   color: #3a4660;
-  background: #f9e4b7;
+  background: #fff;
   border: 0px solid;
   font-weight: bold;
   padding: 5px 10px;

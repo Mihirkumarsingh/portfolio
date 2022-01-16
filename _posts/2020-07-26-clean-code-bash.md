@@ -9,5 +9,5 @@ My two cents on writing Bash Scripts
 <!--more-->
 My favourite are
 ```
-- Rich Dad Poor Dad
+- To be updated
 ```

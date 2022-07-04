@@ -465,7 +465,10 @@ footer .footer-below {
 header img.profile-img {
     max-width: 240px;
     border-radius: 50%;
-    border: 0.4em solid rgba(58, 70, 96, 1);
+    border: 0.2em solid rgba(58, 70, 96, 1);
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 header .intro-text .name {
